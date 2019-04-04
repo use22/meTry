@@ -31,4 +31,3 @@ CONNECT 150000000
 --> pppd: [18]нд[01]
 --> primary   DNS address 123.123.123.123
 --> pppd: [18]нд[01]
---> secondary DNS address 123.123.123.124
