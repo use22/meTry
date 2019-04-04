@@ -30,4 +30,3 @@ CONNECT 150000000
 --> remote IP address 10.64.64.65
 --> pppd: [18]нд[01]
 --> primary   DNS address 123.123.123.123
---> pppd: [18]нд[01]
