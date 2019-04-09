@@ -1,0 +1,8 @@
+AT+COPS?
++COPS: 0,0,"CHN-UNICOM",7
+
+OK
+AT+COPS?
++COPS: 0,0,"CHN-UNICOM",7
+
+OK
